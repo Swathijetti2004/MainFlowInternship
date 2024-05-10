@@ -3,6 +3,12 @@
 
 **TASK-1**
 
+**Description:**
+This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
+
+**Responsibility:**
+Write a Python program to create a list, a dictionary, and a set. Perform basic operations like adding, removing, and modifying elements
+
 **Lists (List Name: l):**
 ->Created an empty list and initialized it with some elements.
 ->Demonstrated appending, removing, and modifying elements in the list.
